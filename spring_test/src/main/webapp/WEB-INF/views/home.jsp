@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1>${serverTime}</h1>
+	<p>Upload URL : https://github.com/KimMyungJin1217/Test.git</p>
 </body>
 </html>
